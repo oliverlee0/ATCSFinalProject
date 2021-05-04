@@ -1,6 +1,6 @@
 # ATCSFinalProject
 
-This program takes in a song (either as a local file or as a search from YouTube) and returns a .wav file of the song with bass. The bass track plays the root note of each of the song's chords (detected with an API) as a simple sin wave.
+This program takes in a song (either as a local file or as a search from YouTube) and returns a .wav file of the song with bass. The bass track plays the root note of each of the song's chords (detected with an API) as a simple sin wave. Bass will be significantly more audible with headphones.
 
 Necessary modules:
 
