@@ -5,12 +5,17 @@ This program takes in a song (either as a local file or as a search from YouTube
 Necessary modules: numpy, requests, ffmpeg, youtube-dl
 
 Python:
+
 pip install numpy
+
 pip install requests
 
 Bash:
+
 brew install ffmpeg
+
 sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+
 sudo chmod a+rx /usr/local/bin/youtube-dl
 
 NOTE: Youtube-dl is only necessary for downloading youtube videos. You do not need to install youtube-dl if you plan to only use local files for this program.
