@@ -4,13 +4,13 @@ This program takes in a song (either as a local file or as a search from YouTube
 
 Necessary modules:
 
-Python:
+Python: numpy, requests
 
   pip install numpy
 
   pip install requests
 
-Bash:
+Bash: ffmpeg, youtube-dl (YouTube downloader)
 
   brew install ffmpeg
 
