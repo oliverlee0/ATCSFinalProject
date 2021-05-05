@@ -22,10 +22,12 @@ Files created:
 
   final.wav -- .wav file containing original song with bassline
 
-   song.wav -- song as .wav file
+  song.wav -- song as .wav file
 
   bass.wav -- bassline isolated from song
 
   chords.txt -- chords of the song as well as what time the chords played at, based on the response from SonicAPI
+   
+  song.mp3 -- song as .mp3 file if downloaded from YouTube
 
 NOTE: Youtube-dl is only necessary for downloading youtube videos. You do not need to install youtube-dl if you plan to only use local files for this program.
