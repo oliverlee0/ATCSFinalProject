@@ -18,7 +18,7 @@ Bash:
  
   sudo chmod a+rx /usr/local/bin/youtube-dl
 
-Files created:
+Files created (files are overwritten each time the program is run):
 
   final.wav -- .wav file containing original song with bassline
 
