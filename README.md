@@ -26,7 +26,7 @@ Files created (files are overwritten each time the program is run):
 
   bass.wav -- bassline isolated from song
 
-  chords.txt -- chords of the song as well as what time the chords played at, based on the response from SonicAPI
+  chords.txt -- chords of the song as well as what time the chords are played at, based on the response from SonicAPI
    
   song.mp3 -- song as .mp3 file if downloaded from YouTube
 
